@@ -1,8 +1,8 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Fruity Boyz", "spooky", [34, 51, 68]],
+		["South Fruits", "spooky", [34, 51, 68]],
+		["Lemon Hallucination", "monster", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
@@ -12,7 +12,7 @@
 	],
 	"weekBackground": "halloween",
 
-	"storyName": "Spooky Month",
+	"storyName": "During Halloween..",
 	"weekBefore": "week1",
 	"weekName": "Week 2",
 	"startUnlocked": true,
