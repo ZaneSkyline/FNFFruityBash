@@ -82,7 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Fruity Bash Devs'],
-			['ZaneSkyline',		'zaneskyline',		'Director and all',									'https://twitter.com/Smokey_5_',		'483D92'],
+			['ZaneSkyline',		'zaneskyline',		'Director and all',									        'https://twitter.com/ZaneSkyline', '483D92'],
 			[''],
 			["Funkin' Crew"],
 			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",							'https://twitter.com/ninja_muffin99',	'CF2D2D'],
